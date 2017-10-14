@@ -1,0 +1,52 @@
+{
+    "films": [
+    {
+    "code": 123530,
+    "originalTitle": "Snowpiercer",
+    "title": "Snowpiercer, Le Transperceneige",
+    "productionYear": 2013,
+    "release": {
+        "releaseDate": "2013-10-30"
+    },
+    "castingShort": {
+        "directors": "Joon-Ho Bong",
+        "actors": "Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris, John Hurt"
+    },
+    "statistics": {
+        "pressRating": 4.13333,
+        "userRating": 3.38615
+    },
+    "poster": {},
+    "link": [
+        {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=123530.html"
+        }
+    ],
+    "posterURL": "http:\/\/fr.web.img3.acsta.net\/pictures\/210\/380\/21038075_20130909110053289.jpg"
+},
+{
+    "code": 448,
+    "originalTitle": "Back to the Future",
+    "title": "Retour vers le futur",
+    "productionYear": 1985,
+    "release": {
+        "releaseDate": "1985-10-30"
+    },
+    "castingShort": {
+        "directors": "Robert Zemeckis",
+        "actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover, Thomas F. Wilson"
+    },
+    "statistics": {
+        "pressRating": 3.6,
+        "userRating": 4.38804
+    },
+    "poster": {},
+    "link": [
+        {
+            "rel": "aco:web",
+            "href": "http:\/\/www.allocine.fr\/film\/fichefilm_gen_cfilm=448.html"
+        }
+    ],
+    "posterURL": "http:\/\/fr.web.img2.acsta.net\/medias\/nmedia\/18\/35\/91\/26\/18686482.jpg"
+}]}
